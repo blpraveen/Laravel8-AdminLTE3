@@ -3,7 +3,7 @@
 
 ##  Laravel 8 AdminLTE 3
 
-This package contains Laravel 8 and AdminLTE 3 integrated with Access Controle List and Modules:
+This package contains Laravel 8 and AdminLTE 3 integrated with Access Control List and Modules:
 
 - [Access Control List](https://github.com/spatie/laravel-permission).
 - [Laravel Modules](https://github.com/nWidart/laravel-modules).
